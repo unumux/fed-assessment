@@ -12,7 +12,7 @@ Here's a paragraph of structions
 	* Sublist Do This
 	* Sublist Do This 
 
-![Image](/images/dragon-base.svg)
+![Image](../../images/dragon-base.svg)
 
 [Link](http://github.com)
 
