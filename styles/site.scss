@@ -1,3 +1,7 @@
-//Feel free to use SASS Partials
-//Example of importing SASS Partial files 
-@import _navigation.scss;
+// Feel free to use SCSS Partials
+// Example of importing SCSS Partial files 
+@import '_navigation';
+
+body {
+  background-color: green;	
+}
