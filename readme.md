@@ -13,5 +13,7 @@ Your job is to recreate this website to the best of your abilities.  Below you w
 * Review the mock-up files in the Instruction folder
 
 ###Expected Interactions
-*The mobile menu should transition smoothly when expanding and collapsing
-
+* Mobile Menu
+	* The mobile menu should transition smoothly when expanding and collapsing
+* Hover States
+* Odds of Beating the Dragon Calculator
